@@ -29,7 +29,7 @@
     <td width="45%" valign="top" align="center">
       <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=dr1ps&show_icons=true&theme=tokyonight&hide_border=true" width="95%" alt="Stats"/>
       <br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr1ps&theme=tokyonight&hide_border=true" width="95%" alt="Streak"/>
+      <h1>⚡Stats </h1>
     </td>
   </tr>
 </table>
