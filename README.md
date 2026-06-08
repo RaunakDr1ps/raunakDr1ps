@@ -1,6 +1,4 @@
-<!-- CENTERING HEADER & TYPING ANIMATION -->
 <div align="center">
-  <!-- Ultra-clean Neon Typing Banner -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Raunak+⚡;System+Engineer+%7C+Software+Developer;Building+The+Future+Of+Code..." alt="Raunak's Typing SVG" />
 
   <p align="center">
@@ -11,33 +9,26 @@
 
 <br/>
 
-<!-- TWO-COLUMN DASHBOARD LAYOUT -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <!-- Left Panel: Professional Identity -->
-    <td width="55%" valign="top">
-      <h3>🧬 Executive Profile</h3>
-      <p>I am a computer engineering enthusiast dedicated to writing clean, modular code and architectural design. Currently sharpening my low-level logic with C and advancing toward scalable full-stack pipelines.</p>
-      
-      <h3>🔮 Focus Areas</h3>
-      <ul>
-        <li><b>Systems Programming:</b> Algorithmic logic and core computer performance optimization.</li>
-        <li><b>Full-Stack Engineering:</b> Designing secure, responsive, and data-driven systems.</li>
-        <li><b>Automation Pipelines:</b> Removing manual steps from deployment and development loops.</li>
-      </ul>
-    </td>
-    <!-- Right Panel: Real-Time Dynamic Analytics -->
-    <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dr1ps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="95%" alt="Raunak's GitHub Stats"/>
-      <br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr1ps&theme=tokyonight&hide_border=true" width="95%" alt="Raunak's Streak Stats"/>
-    </td>
-  </tr>
-</table>
+## 🧬 Executive Profile
+
+I am a computer engineering enthusiast dedicated to writing clean, modular code and architectural design. Currently sharpening my low-level logic with C and advancing toward scalable full-stack pipelines.
+
+### 🔮 Focus Areas
+* **Systems Programming:** Algorithmic logic and core computer performance optimization.
+* **Full-Stack Engineering:** Designing secure, responsive, and data-driven systems.
+* **Automation Pipelines:** Removing manual steps from deployment and development loops.
 
 <br/>
 
-<!-- CHRONOLOGICAL TIMELINE (Organized by Year) -->
+## 📊 Live Dev Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dr1ps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Raunak's GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr1ps&theme=tokyonight&hide_border=true" width="48%" alt="Raunak's Streak Stats"/>
+</p>
+
+<br/>
+
 ## 📅 Chronological Trajectory & Milestones
 
 <details open>
@@ -60,7 +51,6 @@
 
 <br/>
 
-<!-- PREMIUM GLOW TECH STACK -->
 ## 💻 Polyglot Tech Stack & Tools
 
 <table>
@@ -78,14 +68,12 @@
 
 <br/>
 
-<!-- ADVANCED INTERACTIVE ACTIVITY RADAR -->
 ## 📊 Ecosystem Density Radar
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr1ps&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
 
 <br/>
 
-<!-- FOOTER WITH VISIT METRICS -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dr1ps&color=00f2fe&style=flat-square&label=PROFILE+VISITS" alt="Visitor Counter" />
 </div>
