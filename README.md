@@ -1,13 +1,13 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Raunak+⚡;System+Engineer+%7C+Software+Developer;Building+The+Future+Of+Code..." alt="Raunak's Typing SVG" />
+# ⚡ Hi, I'm Raunak
 
-  <p align="center">
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  </p>
-</div>
+**System Engineer | Software Developer**
 
-<br/>
+<p left="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
 
 ## 🧬 Executive Profile
 
@@ -18,16 +18,24 @@ I am a computer engineering enthusiast dedicated to writing clean, modular code 
 * **Full-Stack Engineering:** Designing secure, responsive, and data-driven systems.
 * **Automation Pipelines:** Removing manual steps from deployment and development loops.
 
-<br/>
+---
 
-## 📊 Live Dev Analytics
+## 💻 Polyglot Tech Stack & Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dr1ps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="Raunak's GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr1ps&theme=tokyonight&hide_border=true" width="48%" alt="Raunak's Streak Stats"/>
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>⚡ Core Runtime & Systems</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css" alt="Languages"/>
+    </td>
+    <td width="50%" valign="top">
+      <b>🛠️ Development Ecosystem</b><br/><br/>
+      <img src="https://skillicons.dev/icons?i=vscode,git,github,powershell,cmd,linux" alt="Tools"/>
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
 ## 📅 Chronological Trajectory & Milestones
 
@@ -48,32 +56,3 @@ I am a computer engineering enthusiast dedicated to writing clean, modular code 
     <li>Explored system environments, terminal customizations, and localized automation configurations.</li>
   </ul>
 </details>
-
-<br/>
-
-## 💻 Polyglot Tech Stack & Tools
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>⚡ Core Runtime & Systems</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=c,cpp,py,js,html,css" alt="Languages"/>
-    </td>
-    <td width="50%" valign="top">
-      <b>🛠️ Development Ecosystem</b><br/><br/>
-      <img src="https://skillicons.dev/icons?i=vscode,git,github,powershell,cmd,linux" alt="Tools"/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
-## 📊 Ecosystem Density Radar
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dr1ps&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dr1ps&color=00f2fe&style=flat-square&label=PROFILE+VISITS" alt="Visitor Counter" />
-</div>
