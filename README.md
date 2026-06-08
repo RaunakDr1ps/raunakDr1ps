@@ -36,7 +36,7 @@
 
 ---
 
-<!-- POLYGLOT TECH STACK LAYER (Guaranteed Native SVGs) -->
+<!-- POLYGLOT TECH STACK LAYER -->
 ## 💻 Polyglot Tech Stack & Tools
 
 <table>
@@ -76,6 +76,15 @@
 </details>
 
 ---
+
+<!-- RESTORED & OPTIMIZED ECOSYSTEM GRAPH -->
+## 📊 Ecosystem Density Radar
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr1ps&theme=tokyo-night&area=true&hide_border=true&height=300" width="100%" alt="Activity Graph"/>
+</p>
+
+<br/>
 
 <!-- VISITOR MATRIX -->
 <div align="center">
