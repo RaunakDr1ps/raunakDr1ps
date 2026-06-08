@@ -1,10 +1,11 @@
-<!-- HEADER & ANIMATED TYPING BANNER -->
+<!-- HEADER & SOCIAL BADGES -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F2FE&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Raunak+⚡;System+Engineer+%7C+Software+Developer;Building+The+Future+Of+Code..." alt="Raunak's Typing SVG" />
+  <h1>⚡ Hi, I'm Raunak</h1>
+  <p><b>System Engineer | Software Developer</b></p>
 
   <p align="center">
-    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
-    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+    <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/></a>&nbsp;&nbsp;
+    <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   </p>
 </div>
 
@@ -24,18 +25,18 @@
         <li><b>Automation Pipelines:</b> Removing manual steps from deployment and development loops.</li>
       </ul>
     </td>
-    <!-- RIGHT PANEL: LIVE STATS CARDS -->
+    <!-- RIGHT PANEL: ULTRA-STABLE STATS PANEL -->
     <td width="45%" valign="top" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=dr1ps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="95%" alt="Raunak's GitHub Stats"/>
+      <img src="https://github-readme-stats.anuraghazra1.workers.dev/api?username=dr1ps&show_icons=true&theme=tokyonight&hide_border=true" width="95%" alt="Stats"/>
       <br/><br/>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr1ps&theme=tokyonight&hide_border=true" width="95%" alt="Raunak's Streak Stats"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=dr1ps&theme=tokyonight&hide_border=true" width="95%" alt="Streak"/>
     </td>
   </tr>
 </table>
 
 ---
 
-<!-- POLYGLOT TECH STACK LAYER -->
+<!-- POLYGLOT TECH STACK LAYER (Guaranteed Native SVGs) -->
 ## 💻 Polyglot Tech Stack & Tools
 
 <table>
@@ -76,16 +77,7 @@
 
 ---
 
-<!-- ADVANCED INTERACTIVE ACTIVITY RADAR -->
-## 📊 Ecosystem Density Radar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dr1ps&theme=tokyo-night&area=true&hide_border=true" width="100%" alt="Activity Graph"/>
-</p>
-
-<br/>
-
-<!-- FOOTER VISITOR MATRIX -->
+<!-- VISITOR MATRIX -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dr1ps&color=00f2fe&style=flat-square&label=PROFILE+VISITS" alt="Visitor Counter" />
 </div>
