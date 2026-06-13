@@ -23,46 +23,29 @@
 
 ## `> whoami`
 
-```c
-#include <stdbool.h>
+```bash
+Name       : Raunak Sharma
+Username   : RaunakDr1ps
+Location   : Bihar, India
 
-typedef struct {
-    char* name;
-    char* alias;
-    char* location;
-    char* focus;
-    char* role[3];
-    char* stack[6];
-    char* philosophy;
-    bool open_to_collaborate;
-} Developer;
+Roles      : Software Developer
+             Web Developer
+             Project Builder
 
-Developer raunak = {
-    .name = "Raunak Sharma",
-    .alias = "RaunakDr1ps",
-    .location = "Bihar, India",
-    .focus = "Software Development & Machine Learning",
+Focus      : Software Development
+             AI / Machine Learning
+             Open Source
 
-    .role = {
-        "Software Developer",
-        "Web Developer",
-        "Open Source Enthusiast"
-    },
+Languages  : Python
+             JavaScript
+             C
+             C++
 
-    .stack = {
-        "Python",
-        "JavaScript",
-        "C",
-        "C++",
-        "HTML",
-        "CSS"
-    },
+Status     : Building projects and learning every day
 
-    .philosophy = "Ship things. Break things. Fix things. Repeat.",
-    .open_to_collaborate = true
-};
+Available  : Open for collaboration
 ```
-
+   
 ---
 
 ## `> ls ./skills`
