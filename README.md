@@ -196,7 +196,7 @@ Started exploring programming, software development, and computer science fundam
 
 | Platform    | Link                                                |
 | ----------- | --------------------------------------------------- |
-| 📧 Gmail    | [your-email@gmail.com](mailto:blackbelt1897@gmail.com) |
+| 📧 Gmail    | [blackbelt1897@gmail.com](mailto:blackbelt1897@gmail.com) |
 | 💼 LinkedIn | https://www.linkedin.com/in/raunak-sharma-2322a2321/                                |
 | 🐙 GitHub   | https://github.com/RaunakDr1ps                      |
 | 📍 Location | Bihar, India                                        |
