@@ -143,6 +143,44 @@ When I'm away from my laptop:
 
 ## GitHub Statistics
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=RaunakDr1ps&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&icon_color=38bdf8&include_all_commits=true">
+    <img src="https://github-readme-stats.vercel.app/api?username=RaunakDr1ps&show_icons=true&count_private=true&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=1e293b&icon_color=0284c7&include_all_commits=true" width="48%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDr1ps&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&count_private=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDr1ps&layout=compact&hide_border=true&bg_color=ffffff&title_color=0284c7&text_color=1e293b&count_private=true" width="45%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=RaunakDr1ps&hide_border=true&background=0d1117&stroke=38bdf8&ring=38bdf8&fire=38bdf8&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=586069">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=RaunakDr1ps&hide_border=true&background=ffffff&stroke=0284c7&ring=0284c7&fire=0284c7&currStreakNum=1e293b&sideNums=1e293b&currStreakLabel=1e293b&sideLabels=1e293b&dates=94a3b8" width="70%">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakDr1ps&theme=dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RaunakDr1ps&theme=default" width="90%">
+  </picture>
+</p>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RaunakDr1ps&bg_color=0d1117&color=38bdf8&line=38bdf8&point=c9d1d9&area=true&hide_border=true&radius=6&custom_title=Contribution%20Activity" width="100%">
+
+<br>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RaunakDr1ps/RaunakDr1ps/output/github-contribution-grid-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/RaunakDr1ps/RaunakDr1ps/output/github-contribution-grid-snake.svg" width="80%">
+  </picture>
+</p>
+
+<br>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=RaunakDr1ps&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunakDr1ps&layout=compact&theme=tokyonight&hide_border=true"/>
